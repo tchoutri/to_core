@@ -19,3 +19,4 @@ Usage
     $ to_core "_build/to/ebin/foo.beam"
 
 
+Thanks again to Bryan Joseph (@bryanjos) :)
