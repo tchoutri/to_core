@@ -3,7 +3,7 @@ defmodule ToCore.Mixfile do
 
   def project do
     [app: :to_core,
-     version: "0.1.0",
+     version: "0.1.1",
      elixir: "~> 1.4",
      escript: [main_module: ToCore],
      build_embedded: Mix.env == :prod,
